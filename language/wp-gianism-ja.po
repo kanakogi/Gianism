@@ -19,7 +19,7 @@ msgstr ""
 
 #: app/admin.php:24 templates/general.php:22
 msgid "Gianism Setting"
-msgstr "設定admin.php?page=hametu-stats"
+msgstr "Gianism設定"
 
 #: app/admin.php:39
 msgid "Google Analytics"
